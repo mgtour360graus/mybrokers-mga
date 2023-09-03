@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="6.1.2" apprev="17873" start="node8">
+  <panorama id="node8">
+    <input leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="2250" levelingpitch="0" levelbias="0.400" leveltilesize="510" levelbiashidpi="1.000" levelingroll="0" height="2250">
+      <level width="2250" preload="0" predecode="0" height="2250"/>
+      <level width="1125" preload="0" predecode="0" height="1125"/>
+      <level width="562" preload="0" predecode="0" height="562"/>
+      <level width="281" preload="1" predecode="1" height="281"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" fov="70" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="120" fovstereographic="270" fovfisheye="360" pan="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata longitude="-51.90814981" latitude="-23.43495162" customnodeid="" nodeid="node8" description="Meu Corretor Maringá Soluções Imobiliárias" tags="mybrokers suporte" copyright="MARCELO RIBEIRO   GUTIARA RI" comment="" title="My Broker Maringá Soluções Imobiliárias" author="MGTOUR360GRAUS" datetime="" source="" info=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" width="180" background="1" wordwrap="1" border="1" enabled="1" borderradius="1" borderalpha="1" height="20" textcolor="0x000000" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" borderalpha="1" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" id="Point01" pan="-0.26" title="My Broker Maringá Soluções Imobiliárias" url="{node2}" tilt="0.13" target="0.0/0.0/70.0"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomout="0" zoomoutpause="1" type="crossdissolve" zoomfov="20" softedge="0" blendtime="1" zoomin="0" zoomspeed="2" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" contextprojections="0" lockedwheel="0" speedwheel="1" simulatemass="1" invertwheel="0" dblclickfullscreen="0" hideabout="0" sensitivity="8" invertcontrol="1" rubberband="0" contextfullscreen="1" lockedmouse="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="2250" levelingpitch="0" levelbias="0.400" leveltilesize="510" levelbiashidpi="1.000" levelingroll="0" height="2250">
+      <level width="2250" preload="0" predecode="0" height="2250"/>
+      <level width="1125" preload="0" predecode="0" height="1125"/>
+      <level width="562" preload="0" predecode="0" height="562"/>
+      <level width="281" preload="1" predecode="1" height="281"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" fov="70" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="120" fovstereographic="270" fovfisheye="360" pan="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata longitude="-51.90814981" latitude="-23.43495162" customnodeid="" nodeid="node2" description="Meu Corretor Maringá Soluções Imobiliárias" tags="mybrokers suporte" copyright="MARCELO RIBEIRO   GUTIARA RI" comment="" title="My Broker Maringá Soluções Imobiliárias" author="MGTOUR360GRAUS" datetime="" source="" info=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" width="180" background="1" wordwrap="1" border="1" enabled="1" borderradius="1" borderalpha="1" height="20" textcolor="0x000000" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" borderalpha="1" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" id="Point01" pan="-337.61" title="My Broker Maringá Soluções Imobiliárias" url="{node3}" tilt="0" target="0.0/0.0/83.7"/>
+      <hotspot skinid="ht_node" description="" id="Point02" pan="-185" title="My Broker Maringá Soluções Imobiliárias" url="{node8}" tilt="0" target="179.0/0.0/83.7"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomout="0" zoomoutpause="1" type="crossdissolve" zoomfov="20" softedge="0" blendtime="1" zoomin="0" zoomspeed="2" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" contextprojections="0" lockedwheel="0" speedwheel="1" simulatemass="1" invertwheel="0" dblclickfullscreen="0" hideabout="0" sensitivity="8" invertcontrol="1" rubberband="0" contextfullscreen="1" lockedmouse="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="2250" levelingpitch="0" levelbias="0.400" leveltilesize="510" levelbiashidpi="1.000" levelingroll="0" height="2250">
+      <level width="2250" preload="0" predecode="0" height="2250"/>
+      <level width="1125" preload="0" predecode="0" height="1125"/>
+      <level width="562" preload="0" predecode="0" height="562"/>
+      <level width="281" preload="1" predecode="1" height="281"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" fov="70" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="120" fovstereographic="270" fovfisheye="360" pan="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata longitude="-51.90814981" latitude="-23.43495162" customnodeid="" nodeid="node3" description="Meu Corretor Maringá Soluções Imobiliárias" tags="mybrokers suporte" copyright="MARCELO RIBEIRO   GUTIARA RI" comment="" title="My Broker Maringá Soluções Imobiliárias" author="MGTOUR360GRAUS" datetime="" source="" info=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" width="180" background="1" wordwrap="1" border="1" enabled="1" borderradius="1" borderalpha="1" height="20" textcolor="0x000000" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" borderalpha="1" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" id="Point01" pan="-58.48" title="My Broker Maringá Soluções Imobiliárias" url="{node5}" tilt="0" target="-49.0/0.0/70.0"/>
+      <hotspot skinid="ht_node" description="" id="Point02" pan="-186" title="My Broker Maringá Soluções Imobiliárias" url="{node2}" tilt="-0.39" target="175.0/0.0/83.7"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomout="0" zoomoutpause="1" type="crossdissolve" zoomfov="20" softedge="0" blendtime="1" zoomin="0" zoomspeed="2" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" contextprojections="0" lockedwheel="0" speedwheel="1" simulatemass="1" invertwheel="0" dblclickfullscreen="0" hideabout="0" sensitivity="8" invertcontrol="1" rubberband="0" contextfullscreen="1" lockedmouse="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="2250" levelingpitch="0" levelbias="0.400" leveltilesize="510" levelbiashidpi="1.000" levelingroll="0" height="2250">
+      <level width="2250" preload="0" predecode="0" height="2250"/>
+      <level width="1125" preload="0" predecode="0" height="1125"/>
+      <level width="562" preload="0" predecode="0" height="562"/>
+      <level width="281" preload="1" predecode="1" height="281"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" fov="70" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="120" fovstereographic="270" fovfisheye="360" pan="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata longitude="-51.90814981" latitude="-23.43495162" customnodeid="" nodeid="node5" description="Meu Corretor Maringá Soluções Imobiliárias" tags="mybrokers suporte" copyright="MARCELO RIBEIRO   GUTIARA RI" comment="" title="My Broker Maringá Soluções Imobiliárias" author="MGTOUR360GRAUS" datetime="" source="" info=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" width="180" background="1" wordwrap="1" border="1" enabled="1" borderradius="1" borderalpha="1" height="20" textcolor="0x000000" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" borderalpha="1" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" id="Point01" pan="-13.74" title="My Broker Maringá Soluções Imobiliárias" url="{node6}" tilt="0.26" target="-16.0/0.0/83.7"/>
+      <hotspot skinid="ht_node" description="" id="Point02" pan="-258.35" title="My Broker Maringá Soluções Imobiliárias" url="{node3}" tilt="0.48" target="94.0/0.0/70.0"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomout="0" zoomoutpause="1" type="crossdissolve" zoomfov="20" softedge="0" blendtime="1" zoomin="0" zoomspeed="2" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" contextprojections="0" lockedwheel="0" speedwheel="1" simulatemass="1" invertwheel="0" dblclickfullscreen="0" hideabout="0" sensitivity="8" invertcontrol="1" rubberband="0" contextfullscreen="1" lockedmouse="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="2250" levelingpitch="0" levelbias="0.400" leveltilesize="510" levelbiashidpi="1.000" levelingroll="0" height="2250">
+      <level width="2250" preload="0" predecode="0" height="2250"/>
+      <level width="1125" preload="0" predecode="0" height="1125"/>
+      <level width="562" preload="0" predecode="0" height="562"/>
+      <level width="281" preload="1" predecode="1" height="281"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" fov="70" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="120" fovstereographic="270" fovfisheye="360" pan="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata longitude="-51.90814981" latitude="-23.43495162" customnodeid="" nodeid="node6" description="Meu Corretor Maringá Soluções Imobiliárias" tags="mybrokers suporte" copyright="MARCELO RIBEIRO   GUTIARA RI" comment="" title="My Broker Maringá Soluções Imobiliárias" author="MGTOUR360GRAUS" datetime="" source="" info=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" width="180" background="1" wordwrap="1" border="1" enabled="1" borderradius="1" borderalpha="1" height="20" textcolor="0x000000" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" borderalpha="1" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" id="Point01" pan="-11.41" title="My Broker Maringá Soluções Imobiliárias" url="{node7}" tilt="-0.16" target="0.0/0.0/70.0"/>
+      <hotspot skinid="ht_node" description="" id="Point02" pan="-192.17" title="My Broker Maringá Soluções Imobiliárias" url="{node5}" tilt="0.33" target="180.0/0.0/83.7"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomout="0" zoomoutpause="1" type="crossdissolve" zoomfov="20" softedge="0" blendtime="1" zoomin="0" zoomspeed="2" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" contextprojections="0" lockedwheel="0" speedwheel="1" simulatemass="1" invertwheel="0" dblclickfullscreen="0" hideabout="0" sensitivity="8" invertcontrol="1" rubberband="0" contextfullscreen="1" lockedmouse="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="2250" levelingpitch="0" levelbias="0.400" leveltilesize="510" levelbiashidpi="1.000" levelingroll="0" height="2250">
+      <level width="2250" preload="0" predecode="0" height="2250"/>
+      <level width="1125" preload="0" predecode="0" height="1125"/>
+      <level width="562" preload="0" predecode="0" height="562"/>
+      <level width="281" preload="1" predecode="1" height="281"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" fov="70" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="120" fovstereographic="270" fovfisheye="360" pan="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata longitude="-51.90814981" latitude="-23.43495162" customnodeid="" nodeid="node7" description="Meu Corretor Maringá Soluções Imobiliárias" tags="mybrokers suporte" copyright="MARCELO RIBEIRO   GUTIARA RI" comment="" title="My Broker Maringá Soluções Imobiliárias" author="MGTOUR360GRAUS" datetime="" source="" info=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" width="180" background="1" wordwrap="1" border="1" enabled="1" borderradius="1" borderalpha="1" height="20" textcolor="0x000000" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" borderalpha="1" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" id="Point01" pan="-195.19" title="My Broker Maringá Soluções Imobiliárias" url="{node6}" tilt="0.58" target="180.0/0.0/83.7"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomout="0" zoomoutpause="1" type="crossdissolve" zoomfov="20" softedge="0" blendtime="1" zoomin="0" zoomspeed="2" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" contextprojections="0" lockedwheel="0" speedwheel="1" simulatemass="1" invertwheel="0" dblclickfullscreen="0" hideabout="0" sensitivity="8" invertcontrol="1" rubberband="0" contextfullscreen="1" lockedmouse="0" lockedkeyboard="0"/>
+  </panorama>
+  <masternode>
+    <userdata longitude="" latitude="" customnodeid="" nodeid="master" description="" tags="" copyright="" comment="" title="" author="" datetime="" source="" info=""/>
+  </masternode>
+</tour>
